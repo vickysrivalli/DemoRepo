@@ -1,0 +1,9 @@
+{
+	"name": "SriDemo",
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "924dcf8b-aa9f-48ab-9dfd-ed2e57ab8c0a",
+		"tenantId": "fe19a127-6d18-417e-a84c-2d8f2091201e"
+	}
+}
